@@ -1,4 +1,4 @@
 provider "google" {
-  project = "terrform-cloudrun"
+  project = "gcp-cloudrun-500507"
   region  = "asia-south1"
 }
